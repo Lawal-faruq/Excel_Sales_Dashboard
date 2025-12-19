@@ -6,3 +6,4 @@ The dashboard is designed as a two-page report, combining executive-level KPIs w
 
 ![image alt](https://github.com/Lawal-faruq/Excel_Sales_Dashboard/blob/de6cf9ca7cc95e39c6cb31de40bfad9f0ad8c7c9/Dash%20gold%201.png)
 
+![image alt](https://github.com/Lawal-faruq/Excel_Sales_Dashboard/blob/930435a8b1be1b859f4b79dedb8afd3a5d0877ed/Dash%20gold%202.png)
