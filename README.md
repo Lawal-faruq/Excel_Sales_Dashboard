@@ -10,6 +10,27 @@ The dashboard is designed as a two-page report, combining executive-level KPIs w
 
 ---
 
-## Project Objective
+### Project Objective
 The objective of this project is to:
--
+- Tranform raw sales data into meaningful insights
+- track revenue, quantity, pricing, and customer performance
+- Visualize trends, geographic distribution, and product performance
+- Deliver a clean, executive-ready dashboard using Excel
+
+---
+
+### Tools & Skills Applied
+- Microsoft Excel
+- Pivot Tables & Pivot Charts
+- KPI design and calculation
+- Interactive filters and slicers
+- Data Visualization best practices
+- Dashboard layout and storytelling
+
+---
+
+### Key Insights
+- Clear visibility into revenue and volume trends over time
+- Identification of top-performing products and categories
+- strong geographic and divisional performance comparisons
+- Insight into customer behavior and transaction preferences
